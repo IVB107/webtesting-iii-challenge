@@ -7,7 +7,7 @@ import Display from './Display';
 import Controls from '../controls/Controls';
 import Dashboard from '../dashboard/Dashboard';
 
-describe('Controls', () => {
+describe('Display', () => {
   
   it('Renders the component', () => {
     render(<Display />);
