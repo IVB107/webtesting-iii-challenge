@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Controls Display Text Displays "Locked" if the locked prop is true and "Unlocked" if otherwise 1`] = `
+<div
+  class="led green-led"
+>
+  Unlocked
+</div>
+`;
